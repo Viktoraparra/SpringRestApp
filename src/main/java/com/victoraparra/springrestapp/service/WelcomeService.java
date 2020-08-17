@@ -9,6 +9,7 @@ public class WelcomeService {
 
     @Value("${welcome.message}")
     private String welcomeMessage;
+
     public String retrieveWelcomeMessage(){
         // Complex
         return welcomeMessage;

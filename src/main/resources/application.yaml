@@ -1,9 +1,0 @@
-logging:
-  level:
-    org.springframework: INFO
-    org.springframework.web.servlet: DEBUG
-    app:
-      name: Victoraparra
-      description: ${app.name} is your 25th Spring Boot application
-    welcome:
-      message: Welcome to your 25th Spring Boot app!
